@@ -1,3 +1,7 @@
+<img width="800" height="199" alt="image" src="https://github.com/user-attachments/assets/27c0de8f-f25a-410c-bbf0-50bd1bf285fd" />
+
+---
+
 # 💫 About Me:
 🔭 I’m currently working on: An SOS Satellite Locator software project and exploring AI-agent-assisted full-stack development.<br><br>👯 I’m looking to collaborate on: Machine learning models, prompt engineering, and competitive hackathon projects with a great team.<br><br>🤝 I’m looking for help with: Advanced Python applications and optimizing Operating System algorithms.<br><br>🌱 I’m currently learning: Python, Machine Learning architectures, and OS concepts.<br><br>💬 Ask me about: How my team won first place with an Arduino Uno & ESP-32 powered "Smart Blind Stick" or how to build mobile apps with background GPS tracking.<br><br>⚡ Fun fact: My childhood dream—which still drives my interest in robotics today—is to eventually build a robot just like Doraemon!
 
