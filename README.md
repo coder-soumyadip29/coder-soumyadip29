@@ -24,4 +24,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=coder-soumyadip29&icon=2&color=11)](https://visitcount.itsvg.in)
 
-C:\Users\SOUMYADIP\Downloads\f_be_b_e_df_b_e_mp_.gif
+![GitHub GIF](f_be_b_e_df_b_e_mp_.gif)
