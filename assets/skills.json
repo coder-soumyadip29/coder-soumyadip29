@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated skills matching local developer projects.",
+  "axes": [
+    { "label": "Python",         "value": 92 },
+    { "label": "Java",           "value": 85 },
+    { "label": "Full-Stack Web", "value": 88 },
+    { "label": "React / TS",     "value": 82 },
+    { "label": "Databases",      "value": 78 },
+    { "label": "Machine Learning","value": 86 },
+    { "label": "DSA",            "value": 80 }
+  ]
+}
